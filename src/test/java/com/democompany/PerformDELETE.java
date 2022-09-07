@@ -3,7 +3,11 @@ package com.democompany;
 import io.restassured.RestAssured;
 import io.restassured.response.Response;
 import io.restassured.specification.RequestSpecification;
-
+/**
+ * @author Kamaraj
+ * @description Used to Perform DELETE operation 
+ * @date 04/09/2022
+ */
 public class PerformDELETE {
 
 	public static void main(String[] args) {

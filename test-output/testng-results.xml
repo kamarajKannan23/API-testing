@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="22005" started-at="2022-09-06T07:03:21Z" finished-at="2022-09-06T07:03:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="22005" started-at="2022-09-06T07:03:21Z" finished-at="2022-09-06T07:03:43Z">
+      <class name="com.omrbranch.UserAddress">
+        <test-method status="PASS" signature="login()[pri:1, instance:com.omrbranch.UserAddress@66a3ffec]" name="login" duration-ms="4909" started-at="2022-09-06T07:03:21Z" finished-at="2022-09-06T07:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.omrbranch.UserAddress@66a3ffec]" name="after_method" is-config="true" duration-ms="1" started-at="2022-09-06T07:03:26Z" finished-at="2022-09-06T07:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="addUserAddress()[pri:2, instance:com.omrbranch.UserAddress@66a3ffec]" name="addUserAddress" duration-ms="1564" started-at="2022-09-06T07:03:26Z" finished-at="2022-09-06T07:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addUserAddress -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.omrbranch.UserAddress@66a3ffec]" name="after_method" is-config="true" duration-ms="1" started-at="2022-09-06T07:03:27Z" finished-at="2022-09-06T07:03:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="updateUserAddress()[pri:3, instance:com.omrbranch.UserAddress@66a3ffec]" name="updateUserAddress" duration-ms="2004" started-at="2022-09-06T07:03:27Z" finished-at="2022-09-06T07:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateUserAddress -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.omrbranch.UserAddress@66a3ffec]" name="after_method" is-config="true" duration-ms="1" started-at="2022-09-06T07:03:29Z" finished-at="2022-09-06T07:03:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="getUserAddresses()[pri:4, instance:com.omrbranch.UserAddress@66a3ffec]" name="getUserAddresses" duration-ms="3328" started-at="2022-09-06T07:03:29Z" finished-at="2022-09-06T07:03:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getUserAddresses -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.omrbranch.UserAddress@66a3ffec]" name="after_method" is-config="true" duration-ms="4" started-at="2022-09-06T07:03:33Z" finished-at="2022-09-06T07:03:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="deleteUserAddress()[pri:5, instance:com.omrbranch.UserAddress@66a3ffec]" name="deleteUserAddress" duration-ms="3508" started-at="2022-09-06T07:03:33Z" finished-at="2022-09-06T07:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteUserAddress -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.omrbranch.UserAddress@66a3ffec]" name="after_method" is-config="true" duration-ms="1" started-at="2022-09-06T07:03:36Z" finished-at="2022-09-06T07:03:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+        <test-method status="PASS" signature="changeProfilePic()[pri:6, instance:com.omrbranch.UserAddress@66a3ffec]" name="changeProfilePic" duration-ms="6605" started-at="2022-09-06T07:03:36Z" finished-at="2022-09-06T07:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeProfilePic -->
+        <test-method status="PASS" signature="after_method()[pri:0, instance:com.omrbranch.UserAddress@66a3ffec]" name="after_method" is-config="true" duration-ms="1" started-at="2022-09-06T07:03:43Z" finished-at="2022-09-06T07:03:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- after_method -->
+      </class> <!-- com.omrbranch.UserAddress -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

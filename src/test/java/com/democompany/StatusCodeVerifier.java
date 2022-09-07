@@ -1,5 +1,9 @@
 package com.democompany;
-
+/**
+ * @author Kamaraj
+ * @description Used to verify Status Code
+ * @date 04/09/2022
+ */
 public class StatusCodeVerifier {
 
 	public static void verify(int statusCode) {
